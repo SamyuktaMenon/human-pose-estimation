@@ -20,4 +20,4 @@ Python
 TensorFlow/Keras or PyTorch
 OpenCV for image and video processing
 NumPy for numerical computations
-(Optional) MediaPipe or PoseNet
+MediaPipe or PoseNet
